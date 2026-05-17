@@ -16,7 +16,7 @@ I specialize in building modern data warehouses, Star Schema modeling, and cloud
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">Technologies  and Tools:</h3>
 
 - <a href="https://aws.amazon.com" target="_blank">AWS</a>
 
@@ -27,6 +27,9 @@ I specialize in building modern data warehouses, Star Schema modeling, and cloud
 - <a href="https://www.mysql.com/" target="_blank">MySQL</a>
 
 - <a href="https://www.python.org" target="_blank">Python</a>
+- <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank">PySpark</a>
+
+- <a href="https://www.databricks.com/" target="_blank">Databricks</a>
 <p>
 <h3 align="left">Interests</h3>
 
