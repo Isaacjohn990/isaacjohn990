@@ -10,7 +10,8 @@ I specialize in building modern data warehouses, Star Schema modeling, and cloud
 - 📧 **Email:** [isaaczachariahjohn@gmail.com](mailto:isaaczachariahjohn@gmail.com)
 - 🐦 **Twitter / X:** [@isaacjohn_de](https://twitter.com/isaacjohn_de)
 - 💼 **LinkedIn:** [Isaac John](https://www.linkedin.com/in/isaac-john-426067272)
-
+- 🎮 **Discord:** `isaacjohn_990`
+- 📱 **Telegram:** [@Izik990](https://t.me/Izik990)
 ---
 
 <h3 align="left">Languages and Tools:</h3>
