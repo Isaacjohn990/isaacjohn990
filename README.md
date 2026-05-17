@@ -16,23 +16,18 @@ I specialize in building modern data warehouses, Star Schema modeling, and cloud
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    
-  </a>
-</p>
+  <h3 align="left">Languages and Tools:</h3>
 
+- <a href="https://aws.amazon.com" target="_blank">AWS</a>
+
+- <a href="https://azure.microsoft.com/en-in/" target="_blank">Microsoft Azure</a>
+
+- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">Microsoft SQL Server</a>
+
+- <a href="https://www.mysql.com/" target="_blank">MySQL</a>
+
+- <a href="https://www.python.org" target="_blank">Python</a>
+<p>
 <h3 align="left">Interests</h3>
 
 - Building scalable and reliable data pipelines
