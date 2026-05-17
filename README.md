@@ -13,8 +13,6 @@ I specialize in building modern data warehouses, Star Schema modeling, and cloud
 - 🎮 **Discord:** `isaac#0106`
 - 📱 **Telegram:** [@Izik990](https://t.me/Izik990)
 ---
-
-<h3 align="left">Technologies and Tools:</h3>
 <p align="left">
   <h3 align="left">Technologies  and Tools:</h3>
 
